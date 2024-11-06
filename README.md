@@ -41,3 +41,6 @@ pip install -r requirements.txt
 python app.py
 ```
 Просмотрите результаты в вашем аккаунте ClearML.
+
+
+![Example Image](2024-11-07 021637.gif)
